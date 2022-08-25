@@ -1,2 +1,2 @@
 # learn-terraform-gcp
-This repository have propositve save diferents file for test to learn terraform 
+This repository has propositive save diferents file for test and learn terraform 
